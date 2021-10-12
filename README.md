@@ -20,3 +20,9 @@ Self Learner, Passionate about Coding & Technology , attending as many hackathon
 
 
 <img src= "https://github-readme-stats.vercel.app/api?username=kunalcodes007&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
+
+
+
+LANGUAGES I USE;
+
+![top_languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kunalcodes007&show_icons=true&theme=radical)
