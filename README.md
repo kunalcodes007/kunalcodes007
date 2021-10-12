@@ -2,20 +2,14 @@
 ![1](https://user-images.githubusercontent.com/72959655/137020444-b901c4fd-df80-4384-96e3-0f646d70eab1.png)
 
 
+Hi there 👋 I'm kunal Lingwal
 
-### Hi there 👋
+ABOUT ME
 
-<!--
-**kunalcodes007/kunalcodes007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Self Learner, Passionate about Coding & Technology ,  attending as many hackathons as possible xd , LOOKING TO CONTRIBUTE 
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎬 YouTuber @ Coding Potter
+⚡️ OPEN SOURCE ENTHUSIAST 
+👨🏻‍💻 Indie App Developer
+🔭 FULL STACK DEVELOPER
