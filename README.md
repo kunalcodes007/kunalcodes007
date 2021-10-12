@@ -4,9 +4,9 @@
 
 Hi there 👋 I'm kunal Lingwal
 
-ABOUT ME
+ABOUT ME:
 
-Self Learner, Passionate about Coding & Technology ,  attending as many hackathons as possible xd , LOOKING TO CONTRIBUTE 
+Self Learner, Passionate about Coding & Technology , attending as many hackathons as possible xd .
 
 
 👯 I’m looking to collaborate with other coders
