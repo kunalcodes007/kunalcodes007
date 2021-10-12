@@ -13,4 +13,6 @@ Self Learner, Passionate about Coding & Technology ,  attending as many hackatho
 ⚡️ OPEN SOURCE ENTHUSIAST 
 🔭 FULL STACK DEVELOPER
 ⚡ Fun fact: I love soccer and guitar
-<img src= "https://github-readme-stats.vercel.app/api?username=kunalcodes007&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515"
+
+
+<img src= "https://github-readme-stats.vercel.app/api?username=kunalcodes007&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
