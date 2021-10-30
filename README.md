@@ -6,8 +6,9 @@ Hi there 👋 I'm kunal Lingwal
 
 ABOUT ME:
 
-Self Learner, Passionate about Coding & Technology , attending as many hackathons as possible xd .
+Self Learner, Passionate about Coding & BUGS OF COURSE XD.
 
+CURRENTLY LEARNING DSA!!!! :(
 
 👯 I’m looking to collaborate with other coders
 
