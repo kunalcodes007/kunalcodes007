@@ -6,17 +6,17 @@ Hi there 👋 I'm kunal Lingwal
 
 ABOUT ME:
 
-Self Learner, Passionate about Coding & BUGS OF COURSE XD.
+Back-End Developer
 
-CURRENTLY LEARNING DSA!!!! :(
+DSA ON THE GO!!
 
-👯 I’m looking to collaborate with other coders
+👯 I’m looking to collaborate with community
 
 ⚡️ OPEN SOURCE ENTHUSIAST 
 
-🔭 FULL STACK DEVELOPER
+🔭 BACK-END DEVELOPER
 
-⚡ Fun fact: I love soccer and guitar
+⚡ Fun fact: I love soccer and food
 
 
 
